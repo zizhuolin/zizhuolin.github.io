@@ -4,7 +4,7 @@
 
 ## 个人简介
 
-![180106011214](/Users/linzizhuo/zizhuolin.github.io/image/180106011214.JPG)
+![180106011214](image/180106011214.JPG)
 
 ## 研究兴趣
 
