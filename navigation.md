@@ -2,13 +2,13 @@
 
 [About](index.md)
 
-[English]()
+[CV]()
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
+  * [简历](CV/简历.md)
+  * [Resume](CV/Resume.md)
 - - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
+  * # 证明材料
+  * [成绩单 Academic Transcripts](CV/成绩单 Academic Transcripts.md)
 
 [Math]()
 
