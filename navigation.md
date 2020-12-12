@@ -7,8 +7,8 @@
   * [简历](CV/简历.md)
   * [Resume](CV/Resume.md)
 - - - -
-  * # 证明材料
-  * [成绩单 Academic Transcripts](CV/成绩单 Academic Transcripts.md)
+  * # 附件
+  * [证明材料](CV/证明材料.md)
 
 [Math]()
 
