@@ -1,6 +1,6 @@
 # MDwiki
 
-[关于我](index.md)
+[About](index.md)
 
 [English]()
 
